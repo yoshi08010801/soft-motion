@@ -7,7 +7,7 @@ A simple Python (pygame) animation script that floats a blue circle and gently f
 ## 🌸 ソフトモーション（日本語）
 
 Python（pygame）で作られた、**やさしく動く円と、名言をフェード表示するアニメーション**です。  
-Raspberry Piや初心者の写経用としても使える、シンプルな構成になっています。
+Raspberry Piの写経用としても使える、シンプルな構成になっています。
 
 ---
 
